@@ -1,2 +1,2 @@
-# SNHU-IT145 Final Lab
+# SNHU-IT145
 # ShoppingCartPrinter
